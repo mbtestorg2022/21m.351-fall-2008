@@ -19,14 +19,129 @@ Student Composition Examples
 
 Following are select examples of composition assignments, in score and recorded performance, courtesy of the students and used with permission.
 
-| ASSIGNMENTS | COMPOSITIONS | RECORDINGS |
-| --- | --- | --- |
-| Solo melody | _The Last Leaf_ by Benjamin Park ([PDF]({{< baseurl >}}/resources/park_lastleaf)) |  {{< br >}}{{< br >}} Anonymous MIT student, flute  {{< br >}}Recorded by Adam Schwartz  {{< br >}}[iTunes U (MP3 ‑ 1.7 MB)](https://itunes.apple.com/us/itunes-u/id341599849)  {{< br >}}Internet Archive ([MP3 ‑ 1.7 MB](http://www.archive.org/download/MIT21M.351F08/Ben_Park-The_Last_Leaf.mp3)) {{< br >}}{{< br >}}  |
-| _Life of a Butterfly_ by Joy Perkinson ([PDF]({{< baseurl >}}/resources/perkinsn_butrfly)) |  {{< br >}}{{< br >}} Anonymous MIT student, flute  {{< br >}}Recorded by Adam Schwartz  {{< br >}}[iTunes U (MP3 ‑ 2.5 MB)](https://itunes.apple.com/us/itunes-u/id341599849)  {{< br >}}Internet Archive ([MP3 ‑ 2.5 MB](http://www.archive.org/download/MIT21M.351F08/Joy_Perkinson-Butterfly.mp3)) {{< br >}}{{< br >}}  |
-| Counterpoint for two melodic instruments | _Up to No Good_ by Benjamin Park ([PDF]({{< baseurl >}}/resources/park_nogood)) |  {{< br >}}{{< br >}} Claxton Everett, clarinet  {{< br >}}Anonymous MIT student, bassoon  {{< br >}}Recorded by Adam Schwartz  {{< br >}}[iTunes U (MP3 ‑ 2 MB)](https://itunes.apple.com/us/itunes-u/id341599849)  {{< br >}}Internet Archive ([MP3 ‑ 2 MB](http://www.archive.org/download/MIT21M.351F08/Ben_Park-Up_to_No_Good.mp3)) {{< br >}}{{< br >}}  |
-| _Duet for Clarinet and Bassoon_ by Joy Perkinson ([PDF]({{< baseurl >}}/resources/perkinson_duet)) |  {{< br >}}{{< br >}} Claxton Everett, clarinet  {{< br >}}Anonymous MIT student, bassoon  {{< br >}}Recorded by Adam Schwartz  {{< br >}}[iTunes U (MP3 ‑ 2.1 MB)](https://itunes.apple.com/us/itunes-u/id341599849)  {{< br >}}Internet Archive ([MP3 ‑ 2.1 MB](http://www.archive.org/download/MIT21M.351F08/Joy_Perkinson-Wind_Duo.mp3)) {{< br >}}{{< br >}}  |
-| Solo percussion | _Drifting_ by Benjamin Park ([PDF]({{< baseurl >}}/resources/park_drifting)) |  {{< br >}}{{< br >}} Simone Ovsey, percussion  {{< br >}}[iTunes U (MP3 ‑ 2.9 MB)](https://itunes.apple.com/us/itunes-u/id341599849)  {{< br >}}Internet Archive ([MP3 ‑ 2.9 MB](http://www.archive.org/download/MIT21M.351F08/Ben_Park-Percussion.mp3)) {{< br >}}{{< br >}}  |
-| _Limit One Per Cussion_ by Joy Perkinson (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/perkinson_perc)) |  {{< br >}}{{< br >}} Simone Ovsey, percussion  {{< br >}}[iTunes U (MP3 ‑ 3.4 MB)](https://itunes.apple.com/us/itunes-u/id341599849)  {{< br >}}Internet Archive ([MP3 ‑ 3.4 MB](http://www.archive.org/download/MIT21M.351F08/Joy_Perkinson-Percussion.mp3)) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+COMPOSITIONS
+{{< thclose >}}
+{{< thopen >}}
+RECORDINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Solo melody
+{{< tdclose >}}
+{{< tdopen >}}
+_The Last Leaf_ by Benjamin Park ([PDF]({{< baseurl >}}/resources/park_lastleaf))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Anonymous MIT student, flute  
+Recorded by Adam Schwartz  
+[iTunes U (MP3 ‑ 1.7 MB)](https://itunes.apple.com/us/itunes-u/id341599849)  
+Internet Archive ([MP3 ‑ 1.7 MB](http://www.archive.org/download/MIT21M.351F08/Ben_Park-The_Last_Leaf.mp3))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Life of a Butterfly_ by Joy Perkinson ([PDF]({{< baseurl >}}/resources/perkinsn_butrfly))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Anonymous MIT student, flute  
+Recorded by Adam Schwartz  
+[iTunes U (MP3 ‑ 2.5 MB)](https://itunes.apple.com/us/itunes-u/id341599849)  
+Internet Archive ([MP3 ‑ 2.5 MB](http://www.archive.org/download/MIT21M.351F08/Joy_Perkinson-Butterfly.mp3))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Counterpoint for two melodic instruments
+{{< tdclose >}}
+{{< tdopen >}}
+_Up to No Good_ by Benjamin Park ([PDF]({{< baseurl >}}/resources/park_nogood))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Claxton Everett, clarinet  
+Anonymous MIT student, bassoon  
+Recorded by Adam Schwartz  
+[iTunes U (MP3 ‑ 2 MB)](https://itunes.apple.com/us/itunes-u/id341599849)  
+Internet Archive ([MP3 ‑ 2 MB](http://www.archive.org/download/MIT21M.351F08/Ben_Park-Up_to_No_Good.mp3))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Duet for Clarinet and Bassoon_ by Joy Perkinson ([PDF]({{< baseurl >}}/resources/perkinson_duet))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Claxton Everett, clarinet  
+Anonymous MIT student, bassoon  
+Recorded by Adam Schwartz  
+[iTunes U (MP3 ‑ 2.1 MB)](https://itunes.apple.com/us/itunes-u/id341599849)  
+Internet Archive ([MP3 ‑ 2.1 MB](http://www.archive.org/download/MIT21M.351F08/Joy_Perkinson-Wind_Duo.mp3))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Solo percussion
+{{< tdclose >}}
+{{< tdopen >}}
+_Drifting_ by Benjamin Park ([PDF]({{< baseurl >}}/resources/park_drifting))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Simone Ovsey, percussion  
+[iTunes U (MP3 ‑ 2.9 MB)](https://itunes.apple.com/us/itunes-u/id341599849)  
+Internet Archive ([MP3 ‑ 2.9 MB](http://www.archive.org/download/MIT21M.351F08/Ben_Park-Percussion.mp3))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Limit One Per Cussion_ by Joy Perkinson (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/perkinson_perc))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Simone Ovsey, percussion  
+[iTunes U (MP3 ‑ 3.4 MB)](https://itunes.apple.com/us/itunes-u/id341599849)  
+Internet Archive ([MP3 ‑ 3.4 MB](http://www.archive.org/download/MIT21M.351F08/Joy_Perkinson-Percussion.mp3))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "weekly_assignments" >}}{{< /anchor >}}Weekly Project Assignments
 ----------------------------------------------------------------------------

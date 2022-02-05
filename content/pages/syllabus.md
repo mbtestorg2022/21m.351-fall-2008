@@ -58,20 +58,165 @@ We shall explore twentieth century and contemporary works in class, using scores
 Summary Calendar
 ----------------
 
-| SES # | Topics |
-| --- | --- |
-| 1 | Introduction |
-| 2 | Solo melodic composition for wind instrument: flute, oboe, clarient, horn or bassoon |
-| 3 |  {{< br >}}{{< br >}} Complete melodic composition {{< br >}}{{< br >}} Begin two-part composition for winds {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Complete draft of two-part composition {{< br >}}{{< br >}} Begin song for soprano and piano {{< br >}}{{< br >}}  |
-| 5 | Song project with Prof. James Matheson |
-| 6 | Song project (cont.) |
-| 7 | Song project (cont.) |
-| 8 | Composition for solo percussion |
-| 9 | Composition for solo percussion (cont.) |
-| 10 | Composition for solo percussion (cont.) |
-| 11 | Composition for string quartet |
-| 12 | Composition for string quartet (cont.) |
-| 13 | Readings of percussion pieces |
-| 14 | Readings of songs |
-| During Spring 2009 term | Readings of string quartets
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Solo melodic composition for wind instrument: flute, oboe, clarient, horn or bassoon
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Complete melodic composition
+
+Begin two-part composition for winds
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Complete draft of two-part composition
+
+Begin song for soprano and piano
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Song project with Prof. James Matheson
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Song project (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Song project (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Composition for solo percussion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Composition for solo percussion (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Composition for solo percussion (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Composition for string quartet
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Composition for string quartet (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Readings of percussion pieces
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Readings of songs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+During Spring 2009 term
+{{< tdclose >}}
+{{< tdopen >}}
+Readings of string quartets
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
