@@ -127,7 +127,7 @@ Internet Archive ([MP3 ‑ 2.9 MB](http://www.archive.org/download/MIT21M.351
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-_Limit One Per Cussion_ by Joy Perkinson (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/perkinson_perc))
+_Limit One Per Cussion_ by Joy Perkinson ([PDF]({{< baseurl >}}/resources/perkinson_perc))
 {{< tdclose >}}
 {{< tdopen >}}
 
